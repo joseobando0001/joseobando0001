@@ -1,7 +1,8 @@
 ### Welcome!!! 👋
 
-Hello , my name is José Obando 
-I'm full stack developer.  
+Hello :sunglasses: , my name is José Obando
+
+- I'm full stack developer :monocle_face:.  
 
 <b> :ghost: Software developer</b>
 
